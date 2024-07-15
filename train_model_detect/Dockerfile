@@ -13,3 +13,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # Exécuter le script Python lorsque le conteneur démarre
 CMD ["python", "train_model.py"]
+
